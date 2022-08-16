@@ -79,7 +79,7 @@ h3 {
 
 .app .description {
   position: relative;
-  right: -80%;
+  right: -60%;
   top: -50%;
   transform-origin: 0 0;
   /* transform: rotate(269deg); */
@@ -89,7 +89,7 @@ h3 {
   display: flex;
   justify-content: space-evenly;
   text-align: center;
-  width: 100%;
+  width: 100vw;
   margin: 1rem auto;
   padding: 1rem;
   border-radius: 12px;

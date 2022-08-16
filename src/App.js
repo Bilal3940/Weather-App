@@ -15,7 +15,7 @@ function App() {
 
       })
       setLocation('')
-    )
+    }
   }
   return (
     <div className='app'>
@@ -59,5 +59,4 @@ function App() {
     </div>
   );
 }
-
 export default App;
